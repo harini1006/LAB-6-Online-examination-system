@@ -16,6 +16,18 @@ and any forfeiting identified can make the applicant liable to penalty as per th
 hall tickets for the applicants. After successful generation of hall tickets, the system delivers
 the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
 ### UML DIAGRAMS:
+#### USERCASE DIAGRAM:
+![image](https://github.com/harini1006/LAB-6-Online-examination-system/assets/113497405/cef6ab3b-de8a-4edd-bd4a-e13595f4166f)
+#### ACTIVITY DIAGRAM:
+![image](https://github.com/harini1006/LAB-6-Online-examination-system/assets/113497405/bb5906cc-3172-4ef6-bb5b-d32848ef7dfc)
+#### CLASS DIAGRAM:
+![image](https://github.com/harini1006/LAB-6-Online-examination-system/assets/113497405/f9240136-45a5-4193-b909-78f79d892b94)
+#### SEQUENCE DIAGRAM:
+![image](https://github.com/harini1006/LAB-6-Online-examination-system/assets/113497405/3cfdbd2e-e44b-4a25-8b67-58db3a66f477)
+#### COMMUNICATION DIAGRAM:
+![image](https://github.com/harini1006/LAB-6-Online-examination-system/assets/113497405/ed702468-a2e0-47f7-88d7-635d112f3711)
+#### PACKAGE DIAGRAM:
+![image](https://github.com/harini1006/LAB-6-Online-examination-system/assets/113497405/bfe32582-050c-41bb-9109-d7008b99d093)
 
 
 
